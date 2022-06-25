@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/drawable/ic_round_up.xml" value="0.1945" />
+        <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/drawable/ic_service.xml" value="0.1945" />
+        <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/drawable/ic_store.xml" value="0.1945" />
+        <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1905" />
         <entry key="..\:/Users/Administrador/Desktop/TipTime/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1905" />
       </map>
